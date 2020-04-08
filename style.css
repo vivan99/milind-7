@@ -2,7 +2,7 @@ body{
 	width:100%;
 	height:100%;
 	font-family:_'Gotu'_,sans-serif;
-	background-image:url(wmt.jpg); 
+	background-image:url(wmt.jpg) no-repeat fixedd; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size:cover;
